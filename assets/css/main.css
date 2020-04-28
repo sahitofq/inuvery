@@ -835,6 +835,10 @@ a.back-to-top:hover, a.back-to-top:focus {
   color: #d34836;
 }
 
+.social .whatsapp:hover {
+  color: #25d366;
+}
+
 /* Services Item */
 #services .icon {
   margin-bottom: 10px;
@@ -986,6 +990,10 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .team-item .overlay-social-icon .social-icons li a:hover .lni-instagram-filled {
   background: #fb3958;
+}
+
+.team-item .overlay-social-icon .social-icons li a:hover .lni-whatsapp-filled {
+  background: #25d366;
 }
 
 .team-item .info-text {
@@ -1209,6 +1217,10 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .footer-area .social-icon li .instagram:hover {
   background: #fb3958;
+}
+
+.footer-area .social-icon li .whatsapp:hover {
+  background: #25d366;
 }
 
 .footer-area .social-icon li .foursqare:hover {
